@@ -1,8 +1,0 @@
-print("Hello World")
-print("B Trisanth Sai")
-print("S.R.K.R Engineering College")
-print("I am learnung Python\nPython is easy\nI will practice daily")
-print("*\n**\n***\n****\n*****")
-print("10+20=30")
-print("****\n****\n****\n****")
-print("1\n12\n123\n1234\n12345")
