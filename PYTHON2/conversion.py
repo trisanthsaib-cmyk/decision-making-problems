@@ -1,0 +1,17 @@
+a = 20
+a = list([a])
+print(a)
+num = 5 + 2.0
+print(type(num))
+num_int = int(num)
+print(num_int)
+num_float = float("3.14")
+print(num_float)
+message = str(42)
+print(message)
+c = bool(1)
+d = bool(0)
+print(c,d)
+print(d)
+print(ord('$'))
+print(chr(5))

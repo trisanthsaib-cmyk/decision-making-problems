@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @keyframes bounce{
+            0%{
+                transform: translateY(0);
+            }
+            20%{
+                transform: translateY(100vh);
+        
+            }
+            50%{
+                transform: translateY(68vh);
+            }
+            
+        }
+        button{
+            height: 300px;
+            width:200px;
+            background-color: blueviolet;
+            color:white;
+            margin-top: 50px;
+            transition: color 2s linear 1s;
+            transition: background-color 2s linear 1s;
+            animation: bounce 2s ease 0s infinite ;
+        }
+        button:hover{
+            background-color: blue;
+            color:black;
+            transform: translateY(-20px);
+        }
+    </style>
+</head>
+<body>
+    <button><b>TRISANTH SAI</b></button>
+    
+</body>
+</html>

@@ -1,0 +1,47 @@
+*{
+    font-family:sans-serif;
+}
+.ins{
+    height: 50px;
+    width:450px;
+    margin: 0px;
+    border: none;
+    margin-left: 250px;
+    text-align: center;
+
+}
+.add{
+    height:50px;
+    margin-left: 0px;
+    margin: 0px;
+}
+.heart{
+    height: 50px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.stimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 10px solid #d62976;
+    
+        
+    
+}
+.story{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2px;
+    justify-content: space-between;
+    object-fit: cover;
+    
+    
+}
+.name{
+    margin-top: 200px;
+    text-align:center ;
+}

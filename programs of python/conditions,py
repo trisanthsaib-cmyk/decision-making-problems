@@ -1,0 +1,9 @@
+Year = int(input("Enter your year:" ))
+if (Year == 1):
+    print("YOUR BLOCK IS S")
+elif (Year == 2):
+    print("your block is w")
+elif (Year == 3):
+    print("your block is m")
+else:
+    print("your block is b")

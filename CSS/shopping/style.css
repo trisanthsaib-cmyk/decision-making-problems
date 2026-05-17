@@ -1,0 +1,48 @@
+.header{
+   border: 1px solid black;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.logo-img{
+   width: 60px;
+   height: 50px;
+}
+.searchtype{
+   width: 110px;
+   height: 10px;
+}
+.icon{
+   width: 20px;
+   height: 20px;
+}
+.icons{
+   display: flex;
+   gap: 10px;
+
+}
+.product{
+   height: 400px;
+   width: 200px;
+   border: 1px solid rgb(24, 22, 22);
+   margin: 20px;
+   padding: 10px;
+   border-radius: 20px;
+}
+.image{
+   height: 260px;
+   width: 100px; 
+   object-fit: cover;
+}
+.pro-img{
+   border-radius: 2px;
+   object-fit: cover;
+  
+}
+.brand{
+   font-style: bold;
+   font-weight: 800;
+}
+.name{
+   height: 4px;
+}
